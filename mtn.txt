@@ -1,1 +1,1 @@
-vless://86e4200e-fbc9-4249-a4e7-bfeaeca09107@mci.speedent.click:8443?type=grpc&serviceName=@Speedent_Net+%2C+@Speedent_Net+%2C+@Speedent_Net+%2C+@Speedent_Net+%2C+@Speedent_Net+%2C+@Speedent_Net&security=tls&fp=safari&alpn=h2%2Chttp%2F1.1&sni=arushi.speedent.click#@Speedent_Net%20100GB-IR-MCI
+vless://08a94dec-4c8b-42e9-a3b3-88f99e89284a@nilgam.com:2087?type=grpc&serviceName=@Speedent_Net+%2C+@Speedent_Net+%2C+@Speedent_Net+%2C+@Speedent_Net+%2C+@Speedent_Net+%2C+@Speedent_Net&security=tls&fp=safari&alpn=h2%2Chttp%2F1.1&sni=arushi.speedent.click#@Speedent_Net%20100GB-Irancell
